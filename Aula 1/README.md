@@ -1,4 +1,4 @@
-# MERGULHANDO NO GEMINI, A IA DO GOOGLE
+# Mergulhando no Gemini, a IA do Google
 
 Boas-vindas! Chegou a hora de mergulhar na Imersão IA 2ª edição da Alura e do Google para dar um novo passo na sua carreira!
 
