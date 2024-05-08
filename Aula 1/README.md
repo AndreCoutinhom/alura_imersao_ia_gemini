@@ -1,5 +1,7 @@
 # Mergulhando no Gemini, a IA do Google
 
+![image](https://github.com/AndreCoutinhom/alura_imers-o_ia_gemini/assets/91290799/8722e4e7-aadd-44d1-87ee-ef2090db92b1)
+
 Boas-vindas! Chegou a hora de mergulhar na Imersão IA 2ª edição da Alura e do Google para dar um novo passo na sua carreira!
 
 * Acesse o Google AI Studio [aqui](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=);
