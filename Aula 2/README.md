@@ -4,9 +4,9 @@
 
 Boas-vindas! Chegou a hora de mergulhar na Imersão IA 2ª edição da Alura e do Google para dar um novo passo na sua carreira!
 
-Acesse o Google AI Studio [aqui](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=);
-Acesse o Google API Key [aqui](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=);
-Acesse o Google Gemini [aqui](https://gemini.google.com/?utm_source=website&utm_medium=referral&utm_campaign=alura_may24).
+* Acesse o Google AI Studio [aqui](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=);
+* Acesse o Google API Key [aqui](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=);
+* Acesse o Google Gemini [aqui](https://gemini.google.com/?utm_source=website&utm_medium=referral&utm_campaign=alura_may24).
 
 ## Introdução
 
