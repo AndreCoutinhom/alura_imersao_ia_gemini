@@ -1,4 +1,4 @@
-# Model
+# Models
 
 ## Gemini 1.5
 
