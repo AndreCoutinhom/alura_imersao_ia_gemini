@@ -1,6 +1,6 @@
 # Criando um sistema para busca em documentos usando embeddings e a Gemini API
 
-![image](https://github.com/AndreCoutinhom/alura_imersao_ia_gemini/assets/91290799/e0b7b34f-779a-419e-9200-c526b511dca1)
+![image](https://github.com/AndreCoutinhom/alura_imersao_ia_gemini/assets/91290799/a9f3840b-ecf7-4ffb-93cc-ec4d052c0fc2)
 
 
 Boas-vindas! Chegou a hora de mergulhar na nossa última aula da Imersão IA 2ª edição da Alura e do Google para dar um novo passo na sua carreira!
